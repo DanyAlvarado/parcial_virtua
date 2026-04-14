@@ -1,0 +1,12 @@
+# Archivos de entorno (Nunca subas tus contraseñas reales a Git)
+.env
+
+# Archivos del sistema de macOS
+**/.DS_Store
+
+# Carpetas de editores de código
+.vscode/
+.idea/
+
+# Archivos de la base de datos (por si haces pruebas locales)
+db_data/
